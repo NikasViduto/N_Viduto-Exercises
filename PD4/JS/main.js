@@ -14,6 +14,3 @@ petAge="10";
 const buildingAddres="statybininku 7";
 // 6. 
 console.log("building Addres: " + buildingAddres);
-
-
-
